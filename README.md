@@ -77,13 +77,13 @@ Run the SQL scripts (if provided) to initialize the database schema and tables.
 
 npm start
 
-By default, the server runs on http://localhost:3000. You can update the port in server.js if needed.
+By default, the server runs on http://localhost:2005. You can update the port in server.js if needed.
 
 2️⃣ Access the Application
 
 Open a browser and navigate to:
 
-http://localhost:3000
+http://localhost:2005
 
 📂 Directory Structure
 
